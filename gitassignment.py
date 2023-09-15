@@ -17,5 +17,6 @@ intlist = [int(x) for x in intlist]
 print(sumlist(intlist))
 print(productlist(intlist))
 print(reverselist(intlist))
+#comment for commiting cuz i did 2 steps in one
 
 
