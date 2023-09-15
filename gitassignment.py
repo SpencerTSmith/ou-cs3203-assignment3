@@ -18,5 +18,10 @@ print(sumlist(intlist))
 print(productlist(intlist))
 print(reverselist(intlist))
 #comment for commiting cuz i did 2 steps in one
+<<<<<<< HEAD
+=======
+
+#comment for part10
+>>>>>>> 87021b3 (Part 10)
 
 
