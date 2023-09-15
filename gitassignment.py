@@ -20,6 +20,13 @@ print(reverselist(intlist))
 #comment for commiting cuz i did 2 steps in one
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+#comment for part10
+>>>>>>> 87021b3 (Part 10)
+=======
+>>>>>>> d91d8009d92a5656a90d18719e0465c87ddc89fd
 =======
 
 #comment for part10
@@ -27,6 +34,6 @@ print(reverselist(intlist))
 =======
 
 #comment for part10
->>>>>>> 87021b3 (Part 10)
+>>>>>>> 87021b34ba2e1ba14f865e5ff7eedcf2af5bf418
 
 
