@@ -1,17 +1,24 @@
-def sumlist(list):
-    return sum(list)
+def sumlist(intlist):
+    return sum(intlist)
 
-def productlist(list):
+def productlist(intlist):
     product = 1
-    for i in list:
+    for i in intlist:
         product = product * i
     return product
 
-input = input()
-list = input.split()
-list = [int(x) for x in list]
+def reverselist(xlist):
+    return list(reversed(xlist))
 
-print(sumlist(list))
-print(productlist(list))
+input = input()
+intlist = input.split()
+intlist = [int(x) for x in intlist]
+
+print(sumlist(intlist))
+print(productlist(intlist))
+print(reverselist(intlist))
+#comment for commiting cuz i did 2 steps in one
+
+#comment for part10
 
 
